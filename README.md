@@ -1,50 +1,54 @@
-# Welcome to your Expo app 👋
+# 🎮 Tab Survival – Reflex & Survival Game
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+### 🔗 Download APK  
+**Get the game:** [Download Tab Survival APK](https://drive.google.com/file/d/1MJ9uHMQ5g4W429m96dtpQuhhW0heLTMb/view?usp=drivesdk)
 
-## Get started
+---
 
-1. Install dependencies
+## 📖 About the Project
 
-   ```bash
-   npm install
-   ```
+**Tab Survival** is an interactive **mobile survival game** built using **React Native** and **Expo Router**.  
+Players must survive as long as possible while facing obstacles and challenges, testing their reflexes and reaction time.
 
-2. Start the app
+---
 
-   ```bash
-   npx expo start
-   ```
+## ⚙️ Tech Stack
+- **React Native** – For cross-platform mobile development  
+- **Expo Router** – Navigation and routing system  
+- **JavaScript (ES6)** – Core game logic and interactivity  
+- **Vercel / Expo** – Deployment and testing  
 
-In the output, you'll find options to open the app in a
+---
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## ✨ Features
+- ⏱️ **Reflex-Based Gameplay** – Test your reaction skills  
+- 🕹️ **Interactive UI** – Engaging and user-friendly controls  
+- 📊 **Score Tracking** – Monitor and improve your high score  
+- 📱 **Mobile-Optimized** – Works smoothly on Android devices  
+- 🎨 **Colorful & Fun Design** – Visually appealing gameplay  
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+---
 
-## Get a fresh project
+## 🧠 Learning Outcome
+- Developed a **mobile game using React Native and Expo Router**  
+- Implemented **state management for dynamic gameplay**  
+- Learned **APK generation and distribution**  
+- Enhanced UI/UX for **mobile gaming experience**  
 
-When you're ready, run:
+---
 
-```bash
-npm run reset-project
-```
+## 🚀 Installation (APK)
+1. Click the download link above  
+2. Allow installation from unknown sources on your Android device  
+3. Install the APK  
+4. Open the game and enjoy playing  
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+---
 
-## Learn more
+## 🧑‍💻 Author
+**Lokeshwarn Y**  
+Frontend & Mobile Game Developer  
+📧 Email: lokeshloki67@gmail.com  
+🌐 [Portfolio](https://lokesh-portfolio.vercel.app)
 
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+---
